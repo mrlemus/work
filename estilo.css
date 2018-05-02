@@ -7,6 +7,7 @@ img{
    
     width: 100px;
     height: 90px
+    
 }
 #formulario{
     background: floralwhit;
@@ -15,12 +16,12 @@ img{
     height: 100px;
     border: 1px solid white;
     margin: 200px auto;
-    
     border-radius: 6px;
 
 }
 
-#general{
+ .general{
+    padding: 20px;
     width: 300px;
     position: relative;
     height: 200px;
@@ -28,3 +29,27 @@ img{
     margin: auto;
 
 }
+ .cont{
+    border: 2px solid rgb(14, 11, 11);
+    margin: 20px;
+    padding: 20px;
+
+ }
+  .titulo{
+      margin: 10px;
+      font-size: 20px;
+  }
+
+  label{
+      margin-bottom: 10;
+  }
+
+  .formelemet{
+    margin-bottom: 10;
+  }
+
+  
+
+
+
+
